@@ -1,1 +1,6 @@
 DjangoEcommerce
+
+LOGIN,
+SIGNUP,
+ADD TO CART,
+REMOVE FROM CART
